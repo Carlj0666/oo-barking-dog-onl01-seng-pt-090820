@@ -3,5 +3,5 @@ class Dog.new
 end
 
 def name
-  
+  this_dogs_name
 end
