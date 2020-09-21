@@ -13,3 +13,4 @@ class Dog.new
   end
 end
 
+fido.Dog.new
