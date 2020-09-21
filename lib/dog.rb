@@ -14,3 +14,4 @@ class Dog.new
 end
 
 fido = Dog.new
+fido
